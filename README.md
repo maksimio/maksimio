@@ -14,6 +14,7 @@ This is my stack of program languages and something other (and not only) IT skil
 ![GitHub](https://img.shields.io/badge/-GitHub-24292E?style=flat-square&logo=github&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/-Google_Apps_Script-4287f5?style=flat-square&logo=google&logoColor=white)
 
 <!--## Currently learning / up skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) 
@@ -35,4 +36,3 @@ typescript and react-->
 ## Stats 💩
 <img src="https://gpvc.arturio.dev/maksimio" align="center" />
 <img src="https://github-readme-stats.vercel.app/api?username=maksimio&show_icons=true&count_private=true">
-
