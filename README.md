@@ -1,6 +1,3 @@
-## Hi there
-❓What are you doing here!?
-
 ## Stack 💅
 This is my stack of program languages and something other (and not only) IT skills
 
