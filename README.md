@@ -12,6 +12,7 @@ This is my stack of program languages and something other (and not only) IT skil
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/-Google_Apps_Script-4287f5?style=flat-square&logo=google&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
 <!--## Currently learning / up skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) 
