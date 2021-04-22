@@ -1,3 +1,4 @@
+# SPbPolyTechU student, 20 y.o.
 ## Stack 💅
 This is my stack of program languages and something other (and not only) IT skills
 
