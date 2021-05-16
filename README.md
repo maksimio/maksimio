@@ -3,8 +3,12 @@ This is my stack of program languages and something other (and not only) IT skil
 
 ![Python](https://img.shields.io/badge/-Python-3572a5?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) 
+
 ![Matlab](https://img.shields.io/badge/-Matlab-5192c4?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABUAAAATCAQAAADVR44AAAAABGdBTUEAALGPC%2FxhBQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB%2BUCGgIOBFVT%2BfMAAAACYktHRAD%2Fh4%2FMvwAAAbxJREFUGBl9wU1IVGEUBuB3xMqNgxUZQkUllWibKKhlto4WtrSFiyiCCKJZiKQQKBKtjDZqy3ZtiiJsFUSLQCwjimxqEsZgxuvV737nzv3u7znNWNrM%2BPM82JwNdSL8EL5Y2jODbWXxuymcFOHAXD%2BAbXyHoNTDJGXx9PL%2BMWxhDoSVo6XXzFLGobki2EQeGgLVrofMG2FZFT1baEK9nzBQB6mP%2BlVPkpV%2FEotOT6PGKxDUcXeQuu1m%2FzYnsob9u6NYl4OGQB2iIafDg2qLP0qV%2BJ3VgopFGMw1OO3U6w67D1WHwM9wLFVYl7qzKFtK63PuLfcOXbB3qy4aoBtJVuoED2ZSAGjYfaRO5ht9WHBgHQlnZYN41m4FoA7TTepbaXHBKKSDUQ5kAzbepQLgoLhTX6QB56x3OZriQGpwzAV2RMLHuUYAFgTqGGXM%2Ffiz1EhsP%2BN2ls5HL%2BOc7kTFFxDepgB9JpmXday9a88bPMRQbcETM4g13%2FAVU6lgRFhWcejf%2B7FjARUe7H3Lvag2DzqVFKWMk2C82FzEX5%2BgkUmhVn5X9FSETTBu7VX4bwLvUSeBuRr98vsX0w7q%2FQGAl5CAuatrWgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wMi0yNlQwMDoxNDowNCswMjowMH6ObsIAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDItMjZUMDA6MTQ6MDQrMDI6MDAP09Z%2BAAAAAElFTkSuQmCC&logoColor=white&style=flat-square) 
 
 ![Git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat-square)
